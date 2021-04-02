@@ -1,0 +1,14 @@
+..................................................
+ITCS 2350 - Programming Assignment for week #3
+..................................................
+
+Please enter the item name (no spaces)...........:okay
+Is the item fragile? (y=yes/n=no)................:n
+Please enter your order total....................:200
+Please enter destination. (usa/can/aus)..........:saturn
+Your item is............................OKAY
+Your shipping cost is...................$0
+You are shipping to.....................SATURN
+Your total shipping costs are...........$200.00
+
+----------------------------------------Thank You!
